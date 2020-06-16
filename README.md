@@ -1,2 +1,2 @@
 # Equalizer
-*Run using* python Equalizer
+*Run using* python Equalizer.py
