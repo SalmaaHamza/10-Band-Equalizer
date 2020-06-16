@@ -1,6 +1,6 @@
 from PyQt5 import QtWidgets,QtCore,QtGui,QtMultimedia
 from mainwindow import Ui_MainWindow
-from window import Ui_MainWindow1
+from diff import Ui_MainWindow1
 from compare import Ui_MainWindow2
 import math
 import pyqtgraph as pg
